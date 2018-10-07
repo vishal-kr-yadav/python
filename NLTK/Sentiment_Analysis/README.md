@@ -19,6 +19,6 @@
   - it will read the text file that was created in data_extraction steps and send the text content to sentiment script for detecting a score for the sentence.  
   
 **Run:**
-python data_extraction_from_websites
-python sentiment.py
+- python data_extraction_from_websites  
+- python sentiment.py
 
